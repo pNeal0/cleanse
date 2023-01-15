@@ -4,7 +4,7 @@
 This script is used for clearing up filenames in your directories so that they don't contain special characters and whitespaces
 
 ## Prerequisites
-*Python3
+* Python3
 
 ## How to use it
 ```
